@@ -1,2 +1,2 @@
-# hello-world
-Hey! This is for tutorial purpose.
+#!/bin/bash
+echo "Hello World"
